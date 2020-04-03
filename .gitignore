@@ -9,3 +9,4 @@ csv/
 filelists/miniImagenet/ILSVRC2015/
 filelists/CUB/CUB_200_2011/
 filelists/miniImagenet/ILSVRC2015*
+*.ipynb
